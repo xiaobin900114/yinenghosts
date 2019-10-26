@@ -1,0 +1,46 @@
+#about_us: {
+  width: 1440px;
+  margin: auto;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+#description {
+  display: flex;
+  align-items: flex-start;
+  margin: 5rem;
+}
+
+#title {
+  width: auto;
+  margin: 0 2rem;
+}
+
+#img {
+  margin: 0 2rem;
+}
+
+#content {
+  display: flex;
+  height: 270px;
+  align-items: flex-end;
+  margin: 0 2rem;
+  width: 50%;
+}
+
+#content p {
+
+}
+
+#prize {
+  display: flex;
+  justify-content: space-around;
+  margin: 5rem;
+  align-items: center;
+}
+
+.prize_logo {
+  height: 200px;
+  width: auto;
+}

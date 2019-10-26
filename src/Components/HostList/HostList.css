@@ -1,0 +1,19 @@
+#hostlist {
+  height: 1136px;
+  color: #BFB2AD;
+  width: 100%;
+  margin: 0;
+  background-color: #353238;
+  display: flex;
+  flex-direction: column;
+  padding: 4rem;
+}
+
+#offices {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 70%;
+  padding: 2rem;
+  margin: 0 auto;
+}

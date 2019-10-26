@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 .App {
   text-align: center;
 }
@@ -19,4 +23,14 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+
+html {
+  font-size: 21px;
+  font-family: Roboto;
+}
+
+h1 {
+  font-size: 2rem;
 }
