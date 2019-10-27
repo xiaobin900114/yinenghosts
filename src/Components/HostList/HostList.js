@@ -1,17 +1,13 @@
 import React from 'react';
 import "./HostList.css";
 //import Offshoot from "../Offshoot";
-import profile from "../../assets/img/bin.png";
 import Host from "../Host/Host"
 
-const moon = 'https://s3.amazonaws.com/codecademy-content/programs/react/ravenous/background_search_desktop.jpg';
 
 class HostList extends React.Component {
   constructor(props){
     super(props);
-    this.state=[
-      moon
-    ];
+    this.state=[];
   }
 
 
@@ -26,8 +22,9 @@ class HostList extends React.Component {
         </ul>
         <div id="img_container">
           {
-            this.props.hosts.map(host => {
-              return <Host host={host}/>
+            Object.keys(this.props.hosts).map(key => {
+              let profile = this.props.hosts[key].profile;
+              return <Host host={profile}/>
             })
           }
         </div>
