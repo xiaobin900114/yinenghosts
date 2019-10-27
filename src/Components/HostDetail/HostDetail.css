@@ -1,0 +1,54 @@
+.black_out {
+  width: 1440px;
+  height:1000px;
+  position: fixed;
+  top:0;
+  background-color: rgba(0,0,0,0.6);
+  visibility: visible;
+}
+
+.black_out-close {
+  visibility: hidden;
+}
+
+.HostDetail {
+  width: 80%;
+  height: 85%;
+  padding: 3rem;
+  margin: auto;
+  background-color: #000000;
+  color: #BFB2AD;
+  visibility:visible;
+  position: fixed;
+  z-index: 2;
+  top: 2rem;
+  left:10%;
+  right:10%;
+}
+
+.HostDetail-close {
+  visibility:hidden;
+}
+
+#host_info {
+  display: flex;
+  align-items: flex-start;
+  margin: 2rem auto;
+}
+
+#host_detail {
+  width: 50%;
+  margin: 0 2rem;
+}
+
+#host_detail p {
+  margin: 2.5rem 0;
+}
+
+#contact_icons {
+  display: inline-block;
+}
+
+#contact_icons img {
+  margin: 0 3rem 0 0;
+}

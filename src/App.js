@@ -4,6 +4,7 @@ import './App.css';
 import TitlePage from './Components/TitlePage/TitlePage';
 import AboutUs from './Components/AboutUs/AboutUs';
 import HostList from './Components/HostList/HostList';
+import HostDetail from './Components/HostDetail/HostDetail';
 
 const laOffice = {
   bin:{
@@ -41,7 +42,26 @@ const laOffice = {
 class App extends React.Component {
   constructor(props) {
     super(props);
-    this.state = laOffice;
+    this.state = {
+      office: laOffice,
+      selectedHost: laOffice.sai,
+      detailPageActive: false
+    } ;
+    this.handleDetails = this.handleDetails.bind(this);
+    this.deactiveDetailPage = this.deactiveDetailPage.bind(this);
+  }
+
+  handleDetails(host) {
+    this.setState({
+      selectedHost: host,
+      detailPageActive: true
+    })
+  }
+
+  deactiveDetailPage() {
+    this.setState({
+      detailPageActive: false
+    })
   }
 
   render() {
@@ -49,7 +69,8 @@ class App extends React.Component {
       <div>
         <TitlePage />
         <AboutUs />
-        <HostList hosts={this.state}/>
+        <HostList hosts={this.state.office} handleDetails={this.handleDetails}/>
+        <HostDetail selectedHost={this.state.selectedHost} active={this.state.detailPageActive} onClose={this.deactiveDetailPage}/>
       </div>
     );
   }

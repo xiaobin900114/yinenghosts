@@ -23,8 +23,8 @@ class HostList extends React.Component {
         <div id="img_container">
           {
             Object.keys(this.props.hosts).map(key => {
-              let profile = this.props.hosts[key].profile;
-              return <Host host={profile}/>
+              let hostInfo = this.props.hosts[key];
+              return <Host host={hostInfo} handleDetails={this.props.handleDetails}/>
             })
           }
         </div>
