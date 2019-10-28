@@ -4,14 +4,7 @@ import arrow from "../../assets/img/back-arrow.png";
 import linkedIn from "../../assets/img/linkedIn.png";
 import email from "../../assets/img/email.png";
 
-let active=false;
-let backgroundClass = 'black_out';
-
 class HostDetail extends React.Component {
-  constructor(props){
-    super(props);
-  }
-
   render(){
     let backgroundClass = this.props.active? "black_out" : "black_out black_out-close";
     let hostDetail = this.props.active? "HostDetail" : "HostDetail HostDetail-close";
@@ -19,9 +12,9 @@ class HostDetail extends React.Component {
     return(
       <div className={backgroundClass}>
         <div className={hostDetail}>
-          <img src={arrow} onClick={this.props.onClose} />
+          <img src={arrow} onClick={this.props.onClose} alt=""/>
           <div id="host_info">
-            <img src={this.props.selectedHost.profile} />
+            <img src={this.props.selectedHost.profile} alt=""/>
             <div id="host_detail">
               <div>
                 <h1>{this.props.selectedHost.name}</h1>
@@ -29,8 +22,8 @@ class HostDetail extends React.Component {
                   {this.props.selectedHost.description}
                 </p>
                 <div id="contact_icons">
-                  <img src={linkedIn}/>
-                  <img src={email}/>
+                  <a href={this.props.selectedHost.linkedIn} target='blank'><img src={linkedIn} alt="linkedIn"/></a>
+                  <a href={"mailto:" + this.props.selectedHost.email}><img src={email} alt="linkedIn"/></a>
                 </div>
               </div>
             </div>

@@ -14,7 +14,7 @@ class Host extends React.Component {
 
   render(){
     return(
-      <img src={this.props.host.profile} onClick={this.callDetail} id="host"/>
+      <img src={this.props.host.profile} onClick={this.callDetail} id="host" alt=""/>
     )
   }
 }

@@ -5,12 +5,6 @@ import Host from "../Host/Host"
 
 
 class HostList extends React.Component {
-  constructor(props){
-    super(props);
-    this.state=[];
-  }
-
-
   render() {
     return(
       <div id="hostlist">
@@ -24,7 +18,7 @@ class HostList extends React.Component {
           {
             Object.keys(this.props.hosts).map(key => {
               let hostInfo = this.props.hosts[key];
-              return <Host host={hostInfo} handleDetails={this.props.handleDetails}/>
+              return <Host key={hostInfo.id} host={hostInfo} handleDetails={this.props.handleDetails}/>
             })
           }
         </div>
