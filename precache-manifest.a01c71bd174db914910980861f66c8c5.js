@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f675343a92adac8f61cd0f4368538842",
+    "revision": "2ef9b17e2f9be75037bcb94b70db5e85",
     "url": "/yinenghosts/index.html"
   },
   {
-    "revision": "3583c447a7ca5084d4da",
+    "revision": "fa17a0af6ce8a9361726",
     "url": "/yinenghosts/static/css/main.d858555c.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yinenghosts/static/js/2.5d3524ce.chunk.js"
   },
   {
-    "revision": "3583c447a7ca5084d4da",
-    "url": "/yinenghosts/static/js/main.1a139283.chunk.js"
+    "revision": "fa17a0af6ce8a9361726",
+    "url": "/yinenghosts/static/js/main.62a0e72f.chunk.js"
   },
   {
     "revision": "d1b2c1227123fc5b6a19",
