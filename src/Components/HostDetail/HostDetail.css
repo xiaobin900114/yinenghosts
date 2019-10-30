@@ -13,7 +13,7 @@
 
 .HostDetail {
   width: 80%;
-  height: 85%;
+  height: 90%;
   padding: 3rem;
   margin: auto;
   background-color: #000000;
@@ -37,7 +37,7 @@
 }
 
 #host_detail {
-  width: 50%;
+  width: 60%;
   margin: 0 2rem;
 }
 
