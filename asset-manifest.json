@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/yinenghosts/static/css/main.d858555c.chunk.css",
-    "main.js": "/yinenghosts/static/js/main.62a0e72f.chunk.js",
-    "main.js.map": "/yinenghosts/static/js/main.62a0e72f.chunk.js.map",
+    "main.css": "/yinenghosts/static/css/main.5c6e9feb.chunk.css",
+    "main.js": "/yinenghosts/static/js/main.58079414.chunk.js",
+    "main.js.map": "/yinenghosts/static/js/main.58079414.chunk.js.map",
     "runtime-main.js": "/yinenghosts/static/js/runtime-main.1f95f9cb.js",
     "runtime-main.js.map": "/yinenghosts/static/js/runtime-main.1f95f9cb.js.map",
     "static/js/2.5d3524ce.chunk.js": "/yinenghosts/static/js/2.5d3524ce.chunk.js",
     "static/js/2.5d3524ce.chunk.js.map": "/yinenghosts/static/js/2.5d3524ce.chunk.js.map",
     "index.html": "/yinenghosts/index.html",
-    "precache-manifest.a01c71bd174db914910980861f66c8c5.js": "/yinenghosts/precache-manifest.a01c71bd174db914910980861f66c8c5.js",
+    "precache-manifest.3ae89bbb9b8929a3ece5a3a3e8762446.js": "/yinenghosts/precache-manifest.3ae89bbb9b8929a3ece5a3a3e8762446.js",
     "service-worker.js": "/yinenghosts/service-worker.js",
-    "static/css/main.d858555c.chunk.css.map": "/yinenghosts/static/css/main.d858555c.chunk.css.map",
+    "static/css/main.5c6e9feb.chunk.css.map": "/yinenghosts/static/css/main.5c6e9feb.chunk.css.map",
     "static/media/core77.png": "/yinenghosts/static/media/core77.331b9b2f.png",
     "static/media/idea.png": "/yinenghosts/static/media/idea.f4355744.png",
     "static/media/spark.png": "/yinenghosts/static/media/spark.f68ec9a3.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.1f95f9cb.js",
     "static/js/2.5d3524ce.chunk.js",
-    "static/css/main.d858555c.chunk.css",
-    "static/js/main.62a0e72f.chunk.js"
+    "static/css/main.5c6e9feb.chunk.css",
+    "static/js/main.58079414.chunk.js"
   ]
 }
