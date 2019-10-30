@@ -32,7 +32,7 @@ const offices = [
         id: 13,
         profile: 'https://lh3.googleusercontent.com/PgtzzVoNATQoASPzAQgLhOZf-6ad1_Y7Oi7tZ9TRaxQ_pZe7b9IEkhBPeohK0brw7fmpHKdT623oSNtqHOJmGdhO6XfI4hfYZdwcLJRY_z10BXVLGSNVxSmiK1wE7mKOtm7tMxX0qw=s305-p-k',
         name: "Moon",
-        description: "My name is Moon Qi, and I am a product designer and character designer. In the past few years, I’ve worked on a wide range of projects: including industrial products like microwave oven and backpack, UX/UI, branding strategy, toys, character design, as well as illustration for books and packaging. All those experience from different design areas integrated and melted together, and informed who I am as a professional designer. The critical thinking and problem-solving skills I’ve learned from industrial design make me consider all aspects of the problem in depth, to provide a thoughtful and effective solution. The sense and intuition of an artist help me being flexible and creative among different styles and facets in my industry.",
+        description: "My name is Moon Qi and Monkey Rider is my nickname in YinengFM. I am a LA based character and toy deisgner. The passion on drawing made me becoming a designer, the willing to communicate with people made the establishment of YinengFM.",
         linkedIn:'https://www.linkedin.com/in/moonqi/',
         email:'info@yineng.fm',
       },
@@ -62,7 +62,7 @@ const offices = [
       },
       huang:{
         id: 17,
-        profile: 'https://lh3.googleusercontent.com/9THxScYp0cZCSeBGPjjFdZxrGz2Hns0puV7Kg67uhakmZX2KbqyqUfdSWyB1tv48k0EHf7uQNzVrV270K00pfEVvXYH5mBhbCQDuN0Q0-kLk5af4eW6z5s-ge8aYJBLDRUUbA-P3zA=s305-p-k',
+        profile: 'https://lh3.googleusercontent.com/wqvBDKpSs_Vrc-6fLvgkaGla96foICpZRI8ejwfaZaauR_GByV0RpgXHLPqGSdQ6IfmyLuxTU5NNNSJM6GkcoZlgVa3C2lymRr2EUnHclvgu10kyzM56Q8dNS4h9bYlimcpTSkHNvw=s305-p-k',
         name: "Yilin Huang",
         description: "Yacht Designer#Young Designer of the Year 2018 -- Special Judges' Mention Award -- Professional Category",
         linkedIn:'https://www.linkedin.com/in/yilin-huang-a66b778b/',
@@ -70,7 +70,7 @@ const offices = [
       },
       kui:{
         id: 18,
-        profile: 'https://lh3.googleusercontent.com/OKeeFf0tdRJahIPo4y2xTWoRwtCbzqEPMed_BJHlyWM5wU2NqdYpLjD12Je-H72z23ZZjymf06aGAk6D5-gUDLRXbTuJfUOpMW9nk3lVjOS8VYkxalhG0OvpFh10tefwypfF9tPggg=s305-p-k',
+        profile: 'https://lh3.googleusercontent.com/jZZm5o1M4De590wDzaPuesivJyvXp-u2KWDoTiJw6-8btgfd75B8UzttMNMcnVdXcGvWpmIlNGBMHWAVPmyUhkBRRWGiymu7EC_AFzEZNuQ0dTdWDETjzBgM3abam4CqyKjybwKFoA=s305-p-k',
         name: "Kui Cai",
         description: "Hi, I'm Kui Cai. I am a strategic designer that creates insight-driven innovation and desirable experiences through an empathetic design process. Since 2008, I spent over nine years working in the sports footwear industry as a sneaker designer and a product manager.",
         linkedIn:'https://www.linkedin.com/in/kui-cai-57837656/',
@@ -92,7 +92,7 @@ const offices = [
       },
       peng:{
         id: 22,
-        profile: 'https://lh3.googleusercontent.com/qfBt3T8dkNq9Q-ze2B9wj94KxDI0M7m_O5qFDHwcZ-2iTJeZ-ksOl4VXAzJesGl4KyirQOA6wwbrc4bOAJe5QHsYqtKgeAQY9JNp3c43Saskw4cOI8PjvF2NhODI-ADKZBZoVx-EyA=s305-p-k',
+        profile: 'https://lh3.googleusercontent.com/a4BLRjKti356OhBGchbxbSYE8GiPVTN4HxQA5CTJrKyeQnj9kIgXgiDHAm6btT5VoeQshHMTNMhYzRjQGkZ0vyl9uOAn7LvgntD6Zh9sZ3zvUoGRuv7pRkH8E2BPLSdBMCmuiNCgpw=s305-p-k',
         name: "Peng Zheng",
         description: "I am Peng, a product designer passionate about creating delightful products for people. I value the integration of pixel-perfect interfaces with fluid user experience",
         linkedIn:'https://www.linkedin.com/in/pengzheng1/',
@@ -100,7 +100,7 @@ const offices = [
       },
       pupu:{
         id: 23,
-        profile: 'https://lh3.googleusercontent.com/PshjgZQ5Vo9dYb37lNNGUUlDWcj-dpqa7EWFIfwrN7dz5Uv9-q7aCPyooUMfhuxR7MLqS1B6f_Q5hazunFsr8GKqQFX7DXhVsuH7Bc-lanqDZiNJxTjLAm7Jm6eUJ4TWXHeE2fRwMQ=s305-p-k',
+        profile: 'https://lh3.googleusercontent.com/D-XgGF8k2-s8yXhvDl9XEsLBIfYLvxUxx3J9_dpA2-Nu4I9wQlDq3Ftp-gJ7PHLbU16g4H1mfSkpGINBidyOwmDBR7GLVSz2OoRUNc2xSxzbLWBldfc77g-JhkK5zZOOcUf2clxu9w=s305-p-k',
         name: "Pupu",
         description: "Hi, I’m PuPu. I’m taking care of packaging prototyping in a FMCG company and being a part-time podcaster of YinengFM Shanghai. Meanwhile, I’m addicted with traditional handicrafts. Through building the accessory brand “BUZHI”, I want to bring these handicrafts back to people’s life today.",
         linkedIn:'https://www.linkedin.com/comm/in/yanhuapu',
@@ -108,7 +108,7 @@ const offices = [
       },
       huahua:{
         id: 24,
-        profile: 'https://lh3.googleusercontent.com/yBj7z8B7d1fI2TC8kFnWbbpe-tnD5X1yZ4tTSaTDoBMejXQaXYAmta1KW7OMt0PksAuBnEI_P2U778mOOFdHpKOolJCqItIL2sBKz_6JuhbfG7KAbGWnsrT3Ni9jkOpsrq8-vPB1mQ=s305-p-k',
+        profile: 'https://lh3.googleusercontent.com/x08-1Ww6PEaYz7yan2eAJWF5yGAB6XID1xdX69IDZfHMw1hCGhsZzbe6TSnHIbn57u92py1kxgajtkMwsvFpPAgW3BM1JmwkmHy3Ck850dlPXgkNeyYL-T1EnmbxvFPya3km1YA8bQ=s305-p-k',
         name: "Huahua",
         description: "This is Huahua, who used to be an UX designer，and would be a/an _ designer in the future. #I feel so curious and hopeful living in such a creative age with new technology, new scenes and new professions emerge in endlessly. Even so, I am a little confused and pessimistic about HOW any WHY should we changing the world, so I re-think of my surroundings as a playground. I want to create something, it can be anything fun and might be useful. if it happens to bring people some happiness, that would be wonderful！I learn to master different skills such as design, business, programming, etc., these tools (as playground tickets) help me to interact and communicate with the world . Trying anything with excellent partners, just playing and have fun.",
         linkedIn:'https://www.linkedin.com/in/wangyanjieada',
@@ -126,6 +126,14 @@ const offices = [
         name: "Junjun",
         description: "Co-Founder of YinengFM, (Physical) Product Design Enthusiastic.#I consider myself to be part detective, part entrepreneur and a complete lover of materials.#When I’m a “detective”, I like to reach out to people, practicing empathy and really listening to their wants and dreams, to find connections and patterns and applying those insights to my design.#As an entrepreneur, YinengFM is definitely our BABY! #Materials! The soft yet solid texture of leather, the smell, and feel of a quality piece of walnut, I close my eyes and find inspiration from the materials I choose.",
         linkedIn:'https://www.linkedin.com/in/junjunshi/',
+        email:'info@yineng.fm',
+      },
+      shushu:{
+        id: 32,
+        profile: 'https://lh3.googleusercontent.com/HLGeqa2GtohsKRRcU_2FKQdCIJfsjqrsN74vljIJ1ArA7hkc4oz9sTB-Oksx3h4fRKnhRTcfO_pfWUWXqySXaTr5Cu5_37wW57y09Bg3odZAzFYb3kln5wC3sYmTFhVXxKjPw8q47A=s305-p-k',
+        name: "Uncle Chow",
+        description: "Hi, I'm Uncle Chow who is determined to create cinematic masterpieces since I met YinengFM. And YinengFM changed me a lot. Now, I'm working at YinengFM TOKYO as a YINENGer and i'm loving my teammates. I'm so honored to join this big family because we created so many great content about Design, Technology and so on. If you ask me what's my big decision in last couple years, i'm gonna tell you that i joined THIS PARTY without hesitation!",
+        linkedIn:'',
         email:'info@yineng.fm',
       },
     }

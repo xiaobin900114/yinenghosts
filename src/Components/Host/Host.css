@@ -1,4 +1,9 @@
 #host {
   margin: 1rem 2rem 2.5rem 2rem;
   cursor: pointer;
+  transition: transform 0.7s;
+}
+
+#host:hover {
+  transform: scale(1.05);
 }
