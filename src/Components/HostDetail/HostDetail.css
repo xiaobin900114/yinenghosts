@@ -26,6 +26,10 @@
   right:10%;
 }
 
+.arrow {
+  cursor: pointer;
+}
+
 .HostDetail-close {
   visibility:hidden;
 }

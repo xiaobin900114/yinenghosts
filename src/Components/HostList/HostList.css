@@ -29,3 +29,14 @@
   justify-content: space-between;
   margin: 2rem 1rem;
 }
+
+.office_name {
+  padding: 0.5rem;
+  border-bottom: 1px solid transparent;
+  transition: border-bottom 0.5s;
+  cursor:pointer;
+}
+
+.office_name:hover {
+  border-bottom: 1px solid red;
+}

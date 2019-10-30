@@ -12,7 +12,7 @@ class HostDetail extends React.Component {
     return(
       <div className={backgroundClass}>
         <div className={hostDetail}>
-          <img src={arrow} onClick={this.props.onClose} alt=""/>
+          <img src={arrow} onClick={this.props.onClose} alt="" className="arrow" />
           <div id="host_info">
             <img src={this.props.selectedHost.profile} alt=""/>
             <div id="host_detail">

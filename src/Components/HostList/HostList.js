@@ -20,7 +20,6 @@ class HostList extends React.Component {
 
   handleOfficeChange(office) {
     this.props.onOfficeChange(office);
-    console.log(office);
   }
 
   render() {
@@ -29,8 +28,8 @@ class HostList extends React.Component {
         <h1>Hosts</h1>
         <ul id="offices">
           {
-            officeList.map(office => {
-              return <li onClick={() => this.handleOfficeChange(office)}>{office}</li>
+            officeList.map((office,index) => {
+              return <li key={index} onClick={() => this.handleOfficeChange(office)} className="office_name">{office}</li>
             })
           }
         </ul>

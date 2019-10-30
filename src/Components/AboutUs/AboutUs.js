@@ -22,9 +22,9 @@ class AboutUs extends React.Component {
 
         </div>
         <div id="prize">
-          <img src={idea} className="prize_logo" alt=""/>
-          <img src={spark} className="prize_logo" alt=""/>
-          <img src={core77} className="prize_logo" alt=""/>
+          <a href=""><img src={idea} className="prize_logo" alt=""/></a>
+          <a href="https://galleries.sparkawards.com/index.cfm?entry=954B2432-AE4F-46AD-9456B5994EF4F81A" target="_blank"><img src={spark} className="prize_logo" alt=""/></a>
+          <a href="https://designawards.core77.com/strategy-research/62405/yinengfm" target="_blank"><img src={core77} className="prize_logo" alt=""/></a>
         </div>
 
       </div>
