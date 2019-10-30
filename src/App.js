@@ -32,7 +32,7 @@ const offices = [
         id: 13,
         profile: 'https://lh3.googleusercontent.com/PgtzzVoNATQoASPzAQgLhOZf-6ad1_Y7Oi7tZ9TRaxQ_pZe7b9IEkhBPeohK0brw7fmpHKdT623oSNtqHOJmGdhO6XfI4hfYZdwcLJRY_z10BXVLGSNVxSmiK1wE7mKOtm7tMxX0qw=s305-p-k',
         name: "Moon",
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        description: "My name is Moon Qi, and I am a product designer and character designer. In the past few years, I’ve worked on a wide range of projects: including industrial products like microwave oven and backpack, UX/UI, branding strategy, toys, character design, as well as illustration for books and packaging. All those experience from different design areas integrated and melted together, and informed who I am as a professional designer. The critical thinking and problem-solving skills I’ve learned from industrial design make me consider all aspects of the problem in depth, to provide a thoughtful and effective solution. The sense and intuition of an artist help me being flexible and creative among different styles and facets in my industry.",
         linkedIn:'https://www.linkedin.com/in/moonqi/',
         email:'info@yineng.fm',
       },
